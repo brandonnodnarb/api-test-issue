@@ -9,7 +9,7 @@ import json
 # Authentication for user filing issue (must have read/write access to
 # repository to add issue to)
 USERNAME = 'brandonnodnarb'
-TOKEN = 'bbd75eca15f66926a59f579dbd0b0da64d1a81b9'
+TOKEN = '' #add your token
 
 # The repository to add this issue to
 REPO_OWNER = USERNAME
